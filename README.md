@@ -1,6 +1,6 @@
 ### Hi there 👋 😄
 
-- 🔭 I’m currently studying in Northeastern University at Silicon Valley
+- 🔭 I’m studying in Northeastern University at Silicon Valley
 - 🌱 I’m currently learning Rust and IoT
 - 👯 I’m looking to collaborate on some IoT or C++ project
 - 💬 Happy to discuss me about C++ and IoT
