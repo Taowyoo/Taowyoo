@@ -1,9 +1,9 @@
 ### Hi there 👋 😄
 
 - 🔭 I’m studying in Northeastern University at Silicon Valley
-- 🌱 I’m currently learning Rust and IoT
-- 👯 I’m looking to collaborate on some IoT or C++ project
-- 💬 Happy to discuss me about C++ and IoT
+- 🌱 I’m currently learning C++ for game development and cloud computing
+- 👯 I’m looking to collaborate on some C++ project
+- 💬 Happy to discuss me about C++
 - ⚡ Fun fact: I love C++
 
 
