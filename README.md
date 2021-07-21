@@ -1,10 +1,10 @@
 ### Hi there 👋 😄
 
 - 🔭 I’m studying in Northeastern University at Silicon Valley
-- 🌱 I’m currently learning C++ for game development and cloud computing
-- 👯 I’m looking to collaborate on some C++ project
-- 💬 Happy to discuss me about C++
-- ⚡ Fun fact: I love C++
+- 🌱 I’m currently learning JS, docker for IoT, automation.
+- 👯 I’m looking to collaborate on some C++/Python/JS project
+- 💬 Happy to discuss me about IoT, Game Dev, sensors...
+- ⚡ Fun fact: Learning rust and OS now.
 
 
 
