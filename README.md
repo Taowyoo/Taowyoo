@@ -1,10 +1,11 @@
 ### Hi there 👋 😄
 
-- 🔭 I’m studying in Northeastern University at Silicon Valley
-- 🌱 I’m currently learning JS, docker for IoT, automation.
-- 👯 I’m looking to collaborate on some C++/Python/JS project
+- 🔭 I’m studying in Northeastern University
+- 🌱 I’m currently doing my intern now, developing software with JS, Python, Docker, PostgreSQL, GCP and Raspberry Pi.
+- 👓 I'm now learning Rust in my spare time.
+- 👯 I’m looking to collaborate on some C++/JS/Rust pojects
 - 💬 Happy to discuss me about IoT, Game Dev, sensors...
-- ⚡ Fun fact: Learning rust and OS now.
+- ⚡ Fun fact: Love C++, rust and learn to build OS now.
 
 
 
