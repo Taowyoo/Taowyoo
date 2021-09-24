@@ -28,6 +28,8 @@
 </td>
 </tr>
 
+### 💻 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 26 mins   ███████████████░░░░░░░░░░   60.46 % 
