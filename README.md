@@ -32,6 +32,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   2 hrs 18 mins   ████████████████▓░░░░░░░░   66.88 % 
+Java       1 hr 2 mins     ███████▓░░░░░░░░░░░░░░░░░   30.51 % 
+JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Rust       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
