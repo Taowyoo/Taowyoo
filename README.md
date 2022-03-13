@@ -33,7 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java              13 mins         ███████████████▒░░░░░░░░░   61.37 %
+GitIgnore file    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Props             2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+XML               1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+GitExclude file   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+IDEA_MODULE       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
