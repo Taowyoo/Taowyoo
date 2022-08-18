@@ -30,9 +30,9 @@
 ### 💻 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,16 +75,24 @@ Sunday       16 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22% 
+Bash                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
+Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+Text                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+api_test                 3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.39% 
+roche                    2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.68% 
+roche-qa                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
+py_sdkms_demo            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
+latency_issue            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -105,5 +113,5 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Taowyoo/Taowyoo/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2022 16:48:57 UTC
+ Last Updated on 18/08/2022 07:14:53 UTC
 <!--END_SECTION:waka-->
