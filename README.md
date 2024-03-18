@@ -2,7 +2,7 @@
 
 - 🔭 I’m working with Rust
 - 💬 Happy to discuss me about Rust, OS, Cryptography, ...
-- ⚡ Fun fact: Love C++, Rust and learning OS and Cryptography now.
+- ⚡ Fun fact: Love Rust, Go and learning Cryptography and OS now.
 
 ### Coding Activity over Last Year
 
